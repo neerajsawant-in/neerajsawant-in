@@ -8,7 +8,7 @@
   <tr>
     <td>
       <blockquote>
-        <h3 align="center">💬 <i>"Technologies will come and go, software will rise and fall… but engineering? Engineering is forever."</i></h3>
+        <h3 align="center"> <i>"Technologies will come and go, software will rise and fall… but engineering? Engineering is forever."</i></h3>
       </blockquote>
     </td>
   </tr>
