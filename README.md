@@ -77,10 +77,38 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=neerajsawant-in&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neerajsawant-in&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=neerajsawant-in&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+  <!-- GitHub Stats -->
+  <img width="49%" height="195"
+       src="https://github-stats-extended.vercel.app/api?username=neerajsawant-in&show_icons=true&theme=tokyonight&hide_border=true"
+       alt="GitHub Stats" />
+
+  <!-- Top Languages -->
+  <img width="49%" height="195"
+       src="https://github-stats-extended.vercel.app/api/top-langs/?username=neerajsawant-in&layout=compact&theme=tokyonight&hide_border=true"
+       alt="Top Languages" />
+
+  <br/><br/>
+
+  <!-- GitHub Contribution Streak -->
+  <img width="70%"
+       src="https://streak-stats.demolab.com?user=neerajsawant-in&theme=tokyonight&hide_border=true"
+       alt="GitHub Contribution Streak" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+  <img
+    src="https://ghstats.dev/api/card?username=neerajsawant-in&theme=tokyonight"
+    alt="GitHub Contribution Activity"
+    width="95%"
+  />
+
 </div>
 
 ---
